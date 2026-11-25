@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CineStream</string>
+    <string name="trending_header">Trending This Week</string>
+    <string name="missing_api_key_message">Add TMDB_API_KEY to local.properties to load trending movies.</string>
+    <string name="error_loading_movies">Unable to load trending movies. Check your connection or API key.</string>
+    <string name="empty_movies_message">No trending movies returned.</string>
+    <string name="poster_content_description">Movie poster</string>
+    <string name="details_stub_toast">Details coming soon: %1$s</string>
+    <string name="bookmark_toast">Bookmarked %1$s</string>
+</resources>
